@@ -28,6 +28,8 @@ You can deploy this bot anywhere.
 <p align="left">
 <a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjosprojects%2Ftgmoviebot"
 ">
+     <img height="30px" src="https://railway.app/button.svg">
+  </a>
 
 
 ## Features
