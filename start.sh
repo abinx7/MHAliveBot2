@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/mrsns2503/SNS_PBOT /SNS_PBOT
+  git clone https://github.com/abinx7/SNS_PBOT /SNS_PBOT
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /SNS_PBOT
