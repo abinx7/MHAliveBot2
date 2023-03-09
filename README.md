@@ -21,6 +21,7 @@ You can deploy this bot anywhere.
 
 </a>
 <details>
+
   <summary><b>Deploy to Railway</b></summary>
 <br/>
 
