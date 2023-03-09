@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/mrsns2503/SNS_PBOT",
+    "repository": "https://github.com/abinx7/SNS_PBOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
