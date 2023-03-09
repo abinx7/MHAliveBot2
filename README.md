@@ -21,6 +21,12 @@ You can deploy this bot anywhere.
 
 </a>
 
+<summary><b>Deploy to Railway</b></summary>
+<br/>
+
+<p align="left">
+<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjosprojects%2Ftgmoviebot"
+">
 </p>
 
 
