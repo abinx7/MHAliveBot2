@@ -20,8 +20,8 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 </a>
-
-<summary><b>Deploy to Railway</b></summary>
+<details>
+  <summary><b>Deploy to Railway</b></summary>
 <br/>
 
 <p align="left">
