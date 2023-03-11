@@ -20,16 +20,9 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 
 </a>
-<details>
 
 # Deploy to Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/GzzkRR)
-
-<p align="left">
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fjosprojects%2Ftgmoviebot"
-">
-     <img height="30px" src="https://railway.app/button.svg">
-  </a>
 
 
 ## Features
