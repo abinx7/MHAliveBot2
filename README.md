@@ -22,7 +22,7 @@ You can deploy this bot anywhere.
 </a>
 
 # Deploy to Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/GzzkRR)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/80Vxjm)
 
 
 ## Features
